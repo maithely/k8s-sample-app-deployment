@@ -1,6 +1,6 @@
 
 **canary-deployments-guide.md:**
-```markdown
+
 # Canary Deployments Guide
 
 ## Steps to Set Up Canary Deployments with Istio
