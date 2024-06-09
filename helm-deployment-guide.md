@@ -5,5 +5,6 @@
 2. Clone this repository.
 3. Navigate to the `charts/nginx` directory.
 4. Run the following command to deploy:
+
    ```bash
    helm install my-nginx charts/nginx
